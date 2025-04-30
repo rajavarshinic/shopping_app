@@ -20,6 +20,7 @@ A beginner-friendly Vue.js shopping app . This project demonstrates Vue componen
    ```bash
    git clone https://github.com/your-username/shopping-app.git
    cd shopping-app
+   npm run serve
 
 ## Project structure
 
